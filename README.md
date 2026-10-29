@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello I'm Kasper, a sophomore at UCLA studying Mathematics/Economics and Stats & DS
 
 <!--
 **bobbyfirmino9/bobbyfirmino9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
